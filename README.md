@@ -1,5 +1,14 @@
 # How to generate an audit report
 
+<br/>
+<p align="center">
+<a href="https://cyfrin.io" target="_blank">
+<img src="./report-image.png" width="400" alt="Chainlink Brownie logo">
+</a>
+</p>
+<br/>
+
+
 1. Add all your findings to a markdown file like `report-example.md`
    1. Add the metadata you see at the top of that file
 2. Install [pandoc](https://pandoc.org/installing.html)
