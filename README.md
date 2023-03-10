@@ -1,4 +1,4 @@
-# How to generate an audit report
+# How to generate a PDF audit report
 
 <br/>
 <p align="center">
