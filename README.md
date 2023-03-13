@@ -18,3 +18,7 @@
 ```
 pandoc report-example.md -o report.pdf --from markdown --template=eisvogel --listings
 ```
+
+# FAQ
+
+Certain characters like `⠆` do not work with pandoc, and you'll need to remove them to generate your final report. 
