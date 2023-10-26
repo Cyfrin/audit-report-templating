@@ -38,9 +38,10 @@ Lead Auditors:
 - [Risk Classification](#risk-classification)
 - [Audit Details](#audit-details)
   - [Scope](#scope)
-  - [Severity Criteria](#severity-criteria)
-  - [Summary of Findings](#summary-of-findings)
-  - [Tools Used](#tools-used)
+  - [Roles](#roles)
+- [Executive Summary](#executive-summary)
+  - [Issues found](#issues-found)
+- [Findings](#findings)
 - [High](#high)
 - [Medium](#medium)
 - [Low](#low)
@@ -68,9 +69,10 @@ We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate
 
 # Audit Details 
 ## Scope 
-## Severity Criteria
-## Summary of Findings
-## Tools Used
+## Roles
+# Executive Summary
+## Issues found
+# Findings
 # High
 # Medium
 # Low 
