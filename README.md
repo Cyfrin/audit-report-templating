@@ -23,3 +23,11 @@ pandoc report-example.md -o report.pdf --from markdown --template=eisvogel --lis
 # FAQ
 
 Certain characters like `⠆` do not work with pandoc, and you'll need to remove them to generate your final report. 
+
+# Alternative way to generate a PDF audit report
+
+- Step 1: Install the `Markdown PDF` extension in `VS Code`
+- Step 2: [Copy example markdown file](https://github.com/Cyfrin/audit-report-templating/blob/main/report-alternative-example.md)
+- Step 3: Add logo file (png, jpeg or svg)
+- Step 4: Press `Cmd+Shift+P` If you are on `Mac`. For `Windows` check the `Markdown PDF` extension for details.
+- Step 5: Type `markdown-pdf: Export (pdf)`
